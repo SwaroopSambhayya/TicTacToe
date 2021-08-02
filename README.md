@@ -1,8 +1,10 @@
-# tic_tac_toe
+# Tic_Tac_Toe
 
-A new Flutter project.
+A simple game built in Flutter.
 
 ## Getting Started
+![Screenshot_2021-08-02-18-58-49-428_com example tic_tac_toe](https://user-images.githubusercontent.com/31922733/127869697-e7e9b239-11d2-400b-9732-6c991f2a7ca4.jpg)
+![Screenshot_2021-08-02-18-58-59-629_com example tic_tac_toe](https://user-images.githubusercontent.com/31922733/127869722-9897c180-e17e-4fb7-89ae-0e70a07a6c60.jpg)
 
 This project is a starting point for a Flutter application.
 
